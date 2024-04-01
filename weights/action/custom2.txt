@@ -1,0 +1,10 @@
+jump
+kick
+kick_ball
+phone
+punch
+run
+smoke
+turn
+vomit
+walk
